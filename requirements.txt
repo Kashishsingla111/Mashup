@@ -1,4 +1,4 @@
-pip install flask
-pip install pytube
-pip install pydub
-pip install youtube-search-python
+flask
+pytube
+pydub
+youtube-search-python
